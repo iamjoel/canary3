@@ -6,4 +6,4 @@ Canary3 是一个支持用户自定义策略的量化交易平台。通过对 De
 
 demo video: https://www.capcut.cn/share/7177950888768705830
 
-目前后端部分还没完成(未开源）。前端：[这里](fe/README.md)
+目前后端部分还没完成(未开源)。前端见 [这里](fe/README.md)。
